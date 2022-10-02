@@ -1,0 +1,64 @@
+.nav { 
+    background-color: rgb(26, 80, 97);
+    justify-content: center;
+    padding: 25px; 
+} 
+
+.nav-link { 
+    margin: 5px;
+    color: white;
+}
+
+
+.jumbotron {
+    background-image:url(imagenes/ba1.jpg);
+    
+    background-position:center;
+    height:500px;
+    background-size: 100%
+}
+#padre{
+    position: relative;
+}
+#texto-alineado{
+    position: absolute;
+    right: 70px;
+    top: 240px;
+
+}
+.btn { 
+    margin: 2px;
+ }
+
+             
+.card-section  { 
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+.card { 
+    margin-bottom: 15px;
+}
+    
+.card p {
+    font-size: 12px;
+}
+    
+.card h1 { 
+    font-size: 30px;
+}
+    
+.card-body { 
+    text-align: start;
+}
+    
+.form-orador { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+}
+    
+  
+    
+    
