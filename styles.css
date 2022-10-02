@@ -9,6 +9,9 @@
     color: white;
 }
 
+#item-a-la-derecha{
+    position: flex-end;
+}
 
 .jumbotron {
     background-image:url(imagenes/ba1.jpg);
